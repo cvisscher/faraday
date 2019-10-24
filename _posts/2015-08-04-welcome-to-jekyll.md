@@ -10,7 +10,7 @@ tags:
 - Augustine
 categories:
 - science & faith
-twitter_text: 'Put your twitter description here.'
+twitter_text: 'Lecture: Between organic and mechanistic views of nature'
 ---
 
 A lecture by Stan Rosenberg.  
