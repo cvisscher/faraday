@@ -13,7 +13,7 @@ categories:
 twitter_text: 'Put your twitter description here.'
 ---
 
-A lecture by Stan Rosenberg
+A lecture by Stan Rosenberg.  
 **7:00 PM in SB1606, Dordt University**
 
 ***Abstract***  
