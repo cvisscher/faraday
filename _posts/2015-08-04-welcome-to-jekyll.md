@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rosenberg Lecture"
-date: 2015-08-04 03:21:35
+date: 2019-11-05 03:21:35
 image: '/assets/img/'
 description: 'Put your description here.'
 tags:
