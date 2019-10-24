@@ -14,7 +14,7 @@ twitter_text: 'Put your twitter description here.'
 ---
 
 A lecture by Stan Rosenberg.  
-**7:00 PM in SB1606, Dordt University**
+**7:00 PM in SB1606, Dordt University** with reception to follow.
 
 ***Abstract***  
 A key development in the shaping of early modern science was the conceptualization of nature in mechanistic terms rather than treating it as an organism, possessing a structure that was organized and predictable. The change was not so revolutionary as the rhetoric of Descartes and his advocates profess, however, as his revisions emerged out of a set of ideas about nature that began evolving much earlier and were deeply embedded in the theology of Augustine (and other Greek fathers). **In his largest commentary on Genesis, de Genesi ad litteram, Augustine decisively set aside the vision of the cosmos that saw all particular phenomena as a result of the particular will of the gods or a God and rejected the enchanted world which dominated Near Eastern, Greek, and Roman cosmologies.** A profound revolution in his thought evolved which had major implications for the development of the West and its attitudes towards nature and the natural world (notably shaping early modern sciences and the tradition of thought leading up to the sixteenth- and seventeenth-century developments). **The commentary signals a sea change that more thoroughly implemented the doctrine of creatio ex nihilo, an understanding of the cosmos that had long been part of Christian thought but not fully fleshed out.**  Augustine’s work desacralized and demystified nature, making it into a contingent, objective, rational structure: not simply a form of rudimentary mechanism but also not reducible to a form of organic causation.
