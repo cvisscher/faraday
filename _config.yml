@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Michael Faraday Event
+description: Nov 3-5 Dordt University
 baseurl: "/faraday" # the subpath of your site, e.g. /blog
 url: "https://cvisscher.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,10 +9,7 @@ username: Michael Faraday Event
 user_description: Nov 6-8 2019, Dordt University
 user_title: Dordt University
 email: channon.visscher@dordt.edu
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+twitter_username: dordtuniversity
 
 # Build settings
 markdown: kramdown
