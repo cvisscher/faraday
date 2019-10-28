@@ -1,11 +1,11 @@
 # Site settings
-title: Fire from Heaven
+title: Michael Faraday: Fire from Heaven
 description: Dordt University
 baseurl: "/faraday" # the subpath of your site, e.g. /blog
 url: "https://cvisscher.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Michael Faraday Event
+username: Fire From Heaven
 user_description: Nov 6-8 2019, Dordt University
 user_title: Dordt University
 email: channon.visscher@dordt.edu
